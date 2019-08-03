@@ -1,7 +1,8 @@
 What is wikipediaApp able to do?
-1. Display results of search with title and snippet
-2. Dynamic loading each 10 articles
-3. Choosing between various languages in search
+1. Use the public API of wikipedia.org
+2. Display results of search with title and snippet
+3. Dynamic loading each 10 articles
+4. Choosing between various languages in search
 
 <br/>
 
